@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\cpp pro\Game of life\Game of life\Source.cpp(80,13): error C2079: "file" использует не имеющую определения структуру class "std::basic_fstream<char,std::char_traits<char>>"
+D:\cpp pro\Game of life\Game of life\Source.cpp(86,17): error C2677: бинарный ">>": не найден глобальный оператор, принимающий тип "std::string" (или приемлемое преобразование отсутствует)
+D:\cpp pro\Game of life\Game of life\Source.cpp(104,9): error C2653: this_thread: не является именем класса или пространства имен
+D:\cpp pro\Game of life\Game of life\Source.cpp(104,32): error C2653: chrono: не является именем класса или пространства имен
+D:\cpp pro\Game of life\Game of life\Source.cpp(104,40): error C3861: milliseconds: идентификатор не найден
+D:\cpp pro\Game of life\Game of life\Source.cpp(104,22): error C3861: sleep_for: идентификатор не найден
